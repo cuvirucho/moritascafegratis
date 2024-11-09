@@ -56,11 +56,10 @@ function App() {
      </article>
      
      
-  <div className='piedepagina' >https://publibros.netlify.app/#/marketig
+  <div className='piedepagina' >
     <p>SI QUIERES UNA PÁGINA para Tu negosio en PUBLIBROS te ayudamos vista nuestra web </p>
     <a href="https://publibros.netlify.app/">
     GO
-
     </a>
   </div>
       </section>
